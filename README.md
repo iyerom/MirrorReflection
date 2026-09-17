@@ -1,4 +1,10 @@
 # Mirror Reflection Thing  
+
+
+
+Uploading 2023-07-06_20-54-20.mp4…
+
+
 Use space to toggle between mirror and light.  
 While in mirror mode, left drag to place walls.  
 While in light mode, left drag and release to spawn light ball with the given direction.  
